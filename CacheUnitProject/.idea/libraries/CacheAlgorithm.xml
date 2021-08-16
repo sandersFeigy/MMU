@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="CacheAlgorithm">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../depandencis/CacheAlgorithm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../depandencis/CacheAlgorithm.jar!/" />
+    </SOURCES>
+  </library>
+</component>

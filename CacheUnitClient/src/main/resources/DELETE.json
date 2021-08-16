@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "action": "DELETE"
+  },
+  "body": [
+    {
+      "id": 222,
+      "content": "Some String Data"
+    },
+    {
+      "id": 2222,
+      "content": "Some String Data !!!!"
+    }
+  ]
+}
